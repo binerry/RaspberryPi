@@ -9,7 +9,7 @@ Fritzing is an open-source initiative of the University of Applied Sciences Pots
 to support designers, artists, researchers and hobbyists to work creatively with 
 interactive electronics. For more informations and downloads visit http://fritzing.org
 
-For more informations please visit http://binerry.de/post/26227655944/raspberry-pi-fritzing-part
+For more informations please visit http://binerry.de/post/26227980624/raspberry-pi-fritzing-part
 
 License
 -------
