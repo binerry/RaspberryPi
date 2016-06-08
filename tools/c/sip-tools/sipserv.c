@@ -231,7 +231,9 @@ int main(int argc, char *argv[])
 	register_sip();
 	
 	// app loop
-	for (;;) { }
+	for (;;) {
+		sleep(1);
+	}
 	
 	// exit app
 	app_exit();
